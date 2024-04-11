@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Welcome to The Jungle!
 ---
+# Have a wonderful Thursday!
+
 
